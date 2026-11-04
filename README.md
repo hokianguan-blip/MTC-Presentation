@@ -1,10 +1,13 @@
 <div style="text-align:center;"><img src="https://github.com/user-attachments/assets/e14f10d3-6d94-4042-a5ef-743bf64acdab" alt="MTC Logo" style="width:500px; max-width:90%; height:auto;"></div>
-
-The Military Aviation Maintenance Training course develops competent and safety-conscious aircraft maintenance personnel through a progressive combination of common foundation training and specialised Mechanical or Avionics instruction. Trainees gain essential knowledge in aviation safety, human factors, approved maintenance data, documentation, tool control and fundamental maintenance practices before applying these principles to aircraft mechanical, electrical and avionics systems
+<p style="text-align: justify; line-height: 1.6;">
+The Military Aviation Maintenance Training course develops competent and safety-conscious aircraft maintenance personnel through a progressive combination of common foundation training and specialised Mechanical or Avionics instruction. Trainees gain essential knowledge in aviation safety, human factors, approved maintenance data, documentation, tool control and fundamental maintenance practices before applying these principles to aircraft mechanical, electrical and avionics systems.
+</p>
 <img alt="IMG_5446" src="https://github.com/user-attachments/assets/17fea93b-31d5-4fa6-bfc3-1e8d966a6211" style="width:100%; max-width:100%; height:auto;" />
 <img alt="IMG_5372" src="https://github.com/user-attachments/assets/493dd08c-70d1-40ba-80e9-fcf9b4e45bf9" style="width:100%; max-width:100%; height:auto;" />
 <img alt="IMG_5522" src="https://github.com/user-attachments/assets/05ef65dc-6ed4-437d-ae74-276b8d62f7d2" style="width:100%; max-width:100%; height:auto;" />
+<p style="text-align: justify; line-height: 1.6;">
 By integrating classroom instruction, structured practical training and competency-based assessment, the course strengthens technical knowledge, hands-on ability, troubleshooting discipline, maintenance accuracy and regulatory compliance. Graduates are better prepared to progress into aircraft-type training and undertake supervised maintenance duties safely, methodically and in accordance with approved procedures and industry standards.
+</p>
 <img alt="IMG_5481" src="https://github.com/user-attachments/assets/650da772-aef0-49f1-af52-e95fc798a522" style="width:100%; max-width:100%; height:auto;" />
 <img alt="IMG_3879" src="https://github.com/user-attachments/assets/d75ec2cd-5d1b-4e6a-9f88-c27144552764" style="width:100%; max-width:100%; height:auto;" />
 <img alt="IMG_4796" src="https://github.com/user-attachments/assets/2a056fd0-957e-4ee2-9ecb-5bd64454eb61" style="width:100%; max-width:100%; height:auto;" />
