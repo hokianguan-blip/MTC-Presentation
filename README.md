@@ -1,7 +1,9 @@
 <img width="4032" height="3024" alt="IMG_5446" src="https://github.com/user-attachments/assets/509ba79a-236b-4d55-9752-c4e21df5a2a8" />
 <img width="3024" height="4032" alt="IMG_3792" src="https://github.com/user-attachments/assets/a6eafe0f-5684-466c-816a-0135c5a443bc" />
 The Military Aviation Maintenance Training course develops competent and safety-conscious aircraft maintenance personnel through a progressive combination of common foundation training and specialised Mechanical or Avionics instruction. Trainees gain essential knowledge in aviation safety, human factors, approved maintenance data, documentation, tool control and fundamental maintenance practices before applying these principles to aircraft mechanical, electrical and avionics systems.
+
 By integrating classroom instruction, structured practical training and competency-based assessment, the course strengthens technical knowledge, hands-on ability, troubleshooting discipline, maintenance accuracy and regulatory compliance. Graduates are better prepared to progress into aircraft-type training and undertake supervised maintenance duties safely, methodically and in accordance with approved procedures and industry standards.
+
 <img width="5989" height="116" alt="image" src="https://github.com/user-attachments/assets/949258b3-f5a9-45a3-840c-3ee2a74af9cb" />
 <img width="3024" height="4032" alt="IMG_5574" src="https://github.com/user-attachments/assets/c3ae3ace-e4dd-4560-a125-3f5a78ec2294" />
 <img width="3024" height="4032" alt="IMG_5481" src="https://github.com/user-attachments/assets/c7f7d928-ccc6-4855-89f5-90e761c679f2" />
