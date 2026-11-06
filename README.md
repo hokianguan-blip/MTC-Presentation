@@ -1,19 +1,357 @@
-<div style="text-align:center;"><img src="https://github.com/user-attachments/assets/e14f10d3-6d94-4042-a5ef-743bf64acdab" alt="MTC Logo" style="width:500px; max-width:90%; height:auto;"></div>
-<p style="text-align: justify; line-height: 1.6;">
-The Military Aviation Maintenance Training course develops competent and safety-conscious aircraft maintenance personnel through a progressive combination of common foundation training and specialised Mechanical or Avionics instruction. Trainees gain essential knowledge in aviation safety, human factors, approved maintenance data, documentation, tool control and fundamental maintenance practices before applying these principles to aircraft mechanical, electrical and avionics systems.
-</p>
-<img alt="IMG_5446" src="https://github.com/user-attachments/assets/17fea93b-31d5-4fa6-bfc3-1e8d966a6211" style="width:100%; max-width:100%; height:auto;" />
-<img alt="IMG_5372" src="https://github.com/user-attachments/assets/493dd08c-70d1-40ba-80e9-fcf9b4e45bf9" style="width:100%; max-width:100%; height:auto;" />
-<img alt="IMG_5522" src="https://github.com/user-attachments/assets/05ef65dc-6ed4-437d-ae74-276b8d62f7d2" style="width:100%; max-width:100%; height:auto;" />
-<p style="text-align: justify; line-height: 1.6;">
-By integrating classroom instruction, structured practical training and competency-based assessment, the course strengthens technical knowledge, hands-on ability, troubleshooting discipline, maintenance accuracy and regulatory compliance. Graduates are better prepared to progress into aircraft-type training and undertake supervised maintenance duties safely, methodically and in accordance with approved procedures and industry standards.
-</p>
-<img alt="IMG_5481" src="https://github.com/user-attachments/assets/650da772-aef0-49f1-af52-e95fc798a522" style="width:100%; max-width:100%; height:auto;" />
-<img alt="IMG_3879" src="https://github.com/user-attachments/assets/d75ec2cd-5d1b-4e6a-9f88-c27144552764" style="width:100%; max-width:100%; height:auto;" />
-<img alt="IMG_4796" src="https://github.com/user-attachments/assets/2a056fd0-957e-4ee2-9ecb-5bd64454eb61" style="width:100%; max-width:100%; height:auto;" />
-<img alt="IMG_3792" src="https://github.com/user-attachments/assets/e3137dcf-cf51-4b71-bcb9-db8d6386a6d7" style="width:100%; max-width:100%; height:auto;" />
-<img alt="IMG_4792" src="https://github.com/user-attachments/assets/bbde5e51-96b4-4fe7-8f70-d781f103199d" style="width:100%; max-width:100%; height:auto;" />
-<img alt="IMG_4804" src="https://github.com/user-attachments/assets/cd2c2f47-5619-47be-b3be-06e31a2e7fe0" style="width:100%; max-width:100%; height:auto;" />
-<img alt="IMG_5574" src="https://github.com/user-attachments/assets/05f244cd-eae5-455f-accc-7611c60a8ebd" style="width:100%; max-width:100%; height:auto;" />
-<img width="3024" height="3156" alt="IMG_5442" src="https://github.com/user-attachments/assets/72ade80a-02d4-4fb7-a674-6a1cd77d0f30" style="width:100%; max-width:100%; height:auto;" />
+<style>
+  /* ===== MTC PRESENTATION SECTION ===== */
+
+  .mtc-container {
+    max-width: 1150px;
+    margin: 0 auto;
+    padding: 35px 22px 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #253247;
+  }
+
+  /* Logo */
+  .mtc-logo {
+    text-align: center;
+    margin-bottom: 22px;
+  }
+
+  .mtc-logo img {
+    width: 500px;
+    max-width: 90%;
+    height: auto;
+  }
+
+  /* Main heading */
+  .mtc-title {
+    text-align: center;
+    color: #123b70;
+    font-size: 34px;
+    font-weight: 700;
+    margin: 15px 0 8px;
+  }
+
+  .mtc-subtitle {
+    text-align: center;
+    color: #66768a;
+    font-size: 18px;
+    margin-bottom: 35px;
+  }
+
+  /* Blue divider */
+  .mtc-divider {
+    width: 80px;
+    height: 4px;
+    background: #1976d2;
+    border-radius: 3px;
+    margin: 15px auto 30px;
+  }
+
+  /* Text */
+  .mtc-text {
+    max-width: 970px;
+    margin: 0 auto 32px;
+    font-size: 18px;
+    line-height: 1.75;
+    text-align: justify;
+    color: #37475a;
+  }
+
+  /* Section headings */
+  .mtc-section-title {
+    text-align: center;
+    color: #123b70;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 50px 0 8px;
+  }
+
+  .mtc-section-intro {
+    text-align: center;
+    color: #718096;
+    font-size: 16px;
+    margin: 0 auto 26px;
+  }
+
+  /* Photo gallery */
+  .mtc-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+    margin: 25px 0 45px;
+  }
+
+  .mtc-gallery img {
+    width: 100%;
+    height: 340px;
+    object-fit: cover;
+    border-radius: 10px;
+    display: block;
+
+    box-shadow:
+      0 4px 12px rgba(0, 0, 0, 0.10);
+
+    transition:
+      transform 0.25s ease,
+      box-shadow 0.25s ease;
+  }
+
+  .mtc-gallery img:hover {
+    transform: translateY(-4px);
+    box-shadow:
+      0 10px 25px rgba(0, 0, 0, 0.18);
+  }
+
+  /* Highlight box */
+  .mtc-highlight {
+    background: #f3f7fc;
+    border-left: 5px solid #1976d2;
+    border-radius: 6px;
+    padding: 25px 30px;
+    margin: 35px auto 45px;
+    max-width: 920px;
+  }
+
+  .mtc-highlight p {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.75;
+    text-align: justify;
+    color: #37475a;
+  }
+
+  /* Final message */
+  .mtc-final {
+    background:
+      linear-gradient(135deg, #123b70, #1976d2);
+
+    color: white;
+    text-align: center;
+    padding: 30px 25px;
+    border-radius: 10px;
+    margin-top: 45px;
+  }
+
+  .mtc-final h2 {
+    margin: 0 0 10px;
+    font-size: 25px;
+  }
+
+  .mtc-final p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+
+  /* ===== TABLET ===== */
+
+  @media (max-width: 800px) {
+
+    .mtc-title {
+      font-size: 28px;
+    }
+
+    .mtc-text {
+      font-size: 17px;
+    }
+
+    .mtc-gallery img {
+      height: 280px;
+    }
+  }
+
+
+  /* ===== MOBILE ===== */
+
+  @media (max-width: 600px) {
+
+    .mtc-container {
+      padding: 25px 15px 45px;
+    }
+
+    .mtc-title {
+      font-size: 25px;
+    }
+
+    .mtc-subtitle {
+      font-size: 16px;
+    }
+
+    .mtc-section-title {
+      font-size: 22px;
+    }
+
+    .mtc-text,
+    .mtc-highlight p {
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    .mtc-gallery {
+      grid-template-columns: 1fr;
+    }
+
+    .mtc-gallery img {
+      height: auto;
+    }
+  }
+</style>
+
+
+<div class="mtc-container">
+
+  <!-- LOGO -->
+
+  <div class="mtc-logo">
+
+    <img
+      src="https://github.com/user-attachments/assets/e14f10d3-6d94-4042-a5ef-743bf64acdab"
+      alt="MTC Logo">
+
+  </div>
+
+
+  <!-- TITLE -->
+
+  <h1 class="mtc-title">
+    Military Aviation Maintenance Training
+  </h1>
+
+  <div class="mtc-divider"></div>
+
+  <p class="mtc-subtitle">
+    Developing Competent, Safety-Conscious Aircraft Maintenance Personnel
+  </p>
+
+
+  <!-- INTRODUCTION -->
+
+  <p class="mtc-text">
+
+    The Military Aviation Maintenance Training course develops competent and
+    safety-conscious aircraft maintenance personnel through a progressive
+    combination of common foundation training and specialised Mechanical or
+    Avionics instruction. Trainees gain essential knowledge in aviation safety,
+    human factors, approved maintenance data, documentation, tool control and
+    fundamental maintenance practices before applying these principles to
+    aircraft mechanical, electrical and avionics systems.
+
+  </p>
+
+
+  <!-- FIRST PHOTO SECTION -->
+
+  <h2 class="mtc-section-title">
+    Training in Action
+  </h2>
+
+  <div class="mtc-divider"></div>
+
+  <p class="mtc-section-intro">
+    Building strong foundations through structured technical and practical training
+  </p>
+
+
+  <div class="mtc-gallery">
+
+    <img
+      src="https://github.com/user-attachments/assets/17fea93b-31d5-4fa6-bfc3-1e8d966a6211"
+      alt="MTC practical training">
+
+    <img
+      src="https://github.com/user-attachments/assets/493dd08c-70d1-40ba-80e9-fcf9b4e45bf9"
+      alt="MTC technical training">
+
+    <img
+      src="https://github.com/user-attachments/assets/05ef65dc-6ed4-437d-ae74-276b8d62f7d2"
+      alt="Aircraft maintenance training">
+
+    <img
+      src="https://github.com/user-attachments/assets/650da772-aef0-49f1-af52-e95fc798a522"
+      alt="Hands-on maintenance training">
+
+  </div>
+
+
+  <!-- SECOND TEXT SECTION -->
+
+  <div class="mtc-highlight">
+
+    <p>
+
+      By integrating classroom instruction, structured practical training
+      and competency-based assessment, the course strengthens technical
+      knowledge, hands-on ability, troubleshooting discipline, maintenance
+      accuracy and regulatory compliance. Graduates are better prepared to
+      progress into aircraft-type training and undertake supervised maintenance
+      duties safely, methodically and in accordance with approved procedures
+      and industry standards.
+
+    </p>
+
+  </div>
+
+
+  <!-- SECOND PHOTO SECTION -->
+
+  <h2 class="mtc-section-title">
+    Practical Skills Development
+  </h2>
+
+  <div class="mtc-divider"></div>
+
+  <p class="mtc-section-intro">
+    From fundamental maintenance practices to specialised Mechanical and Avionics skills
+  </p>
+
+
+  <div class="mtc-gallery">
+
+    <img
+      src="https://github.com/user-attachments/assets/d75ec2cd-5d1b-4e6a-9f88-c27144552764"
+      alt="Aircraft maintenance practical training">
+
+    <img
+      src="https://github.com/user-attachments/assets/2a056fd0-957e-4ee2-9ecb-5bd64454eb61"
+      alt="Aircraft technical training">
+
+    <img
+      src="https://github.com/user-attachments/assets/e3137dcf-cf51-4b71-bcb9-db8d6386a6d7"
+      alt="MTC maintenance training">
+
+    <img
+      src="https://github.com/user-attachments/assets/bbde5e51-96b4-4fe7-8f70-d781f103199d"
+      alt="Hands-on aviation training">
+
+    <img
+      src="https://github.com/user-attachments/assets/cd2c2f47-5619-47be-b3be-06e31a2e7fe0"
+      alt="Technical practical training">
+
+    <img
+      src="https://github.com/user-attachments/assets/05f244cd-eae5-455f-accc-7611c60a8ebd"
+      alt="Aircraft maintenance skills training">
+
+    <img
+      src="https://github.com/user-attachments/assets/72ade80a-02d4-4fb7-a674-6a1cd77d0f30"
+      alt="Military aviation maintenance training">
+
+  </div>
+
+
+  <!-- FINAL MESSAGE -->
+
+  <div class="mtc-final">
+
+    <h2>
+      Knowledge • Skills • Safety • Competence
+    </h2>
+
+    <p>
+      Preparing aircraft maintenance personnel with the technical knowledge,
+      practical skills and professional discipline required for aviation maintenance.
+    </p>
+
+  </div>
+
+</div>
 
