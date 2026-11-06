@@ -227,7 +227,7 @@
   <!-- PRELUDE: WHY MTC WAS CONCEIVED -->
 
   <h2 class="mtc-section-title">
-    Why a Dedicated Military Maintenance Training Centre?
+    Why a Dedicated Maintenance Training Centre?
   </h2>
 
   <div class="mtc-divider"></div>
