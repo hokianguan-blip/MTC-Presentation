@@ -224,6 +224,41 @@
   </p>
 
 
+  <!-- PRELUDE: WHY MTC WAS CONCEIVED -->
+
+  <h2 class="mtc-section-title">
+    Why a Dedicated Military Maintenance Training Centre?
+  </h2>
+
+  <div class="mtc-divider"></div>
+
+  <p class="mtc-text">
+    By late 2025, feedback from employees—including supervisors and newly
+    graduated On-the-Job Trainees (OJTs) from TTC—highlighted opportunities to
+    better align technical training with operational requirements. A key concern
+    was that TTC's training approach was perceived as too commercially oriented,
+    making it difficult for trainees to connect what they had learnt with the
+    military aviation maintenance environment they returned to in their units.
+  </p>
+
+  <p class="mtc-text">
+    The feedback pointed to a need for a training establishment with a stronger
+    military aviation focus, where the curriculum, practical training and
+    learning environment reflect the operational realities and technical
+    demands of the RSAF. Trainees also faced lengthy waits to commence courses at
+    TTC, delaying their progression through the training pipeline and affecting
+    manpower availability and productivity within MRO Services units.
+  </p>
+
+  <p class="mtc-text">
+    Against this backdrop, the concept of a dedicated Military Maintenance
+    Training Centre (MTC) was conceived: to provide military aviation-focused
+    technical training that is more relevant to operational needs, reduce
+    course commencement waiting times and accelerate the ab initio training
+    pipeline.
+  </p>
+
+
   <!-- INTRODUCTION -->
 
   <p class="mtc-text">
@@ -350,4 +385,3 @@
   </div>
 
 </div>
-
