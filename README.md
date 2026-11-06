@@ -324,10 +324,6 @@
       alt="Hands-on aviation training">
 
     <img
-      src="https://github.com/user-attachments/assets/cd2c2f47-5619-47be-b3be-06e31a2e7fe0"
-      alt="Technical practical training">
-
-    <img
       src="https://github.com/user-attachments/assets/05f244cd-eae5-455f-accc-7611c60a8ebd"
       alt="Aircraft maintenance skills training">
 
