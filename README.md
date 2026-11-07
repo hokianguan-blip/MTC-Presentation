@@ -236,7 +236,7 @@
     By late 2025, feedback from employees—including supervisors and newly
     graduated On-the-Job Trainees (OJTs) from TTC—highlighted opportunities to
     better align technical training with operational requirements. A key concern
-    was that TTC's training approach was perceived as too commercially oriented,
+    was that TTC's training approach was perceived as too commercial aircraft oriented,
     making it difficult for trainees to connect what they had learnt with the
     military aviation maintenance environment they returned to in their units.
   </p>
