@@ -357,8 +357,10 @@
       src="https://github.com/user-attachments/assets/bbde5e51-96b4-4fe7-8f70-d781f103199d"
       alt="Hands-on aviation training">
 
-      <img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/07fb3206-afd8-4547-adb1-763127798a85" />
-
+     <img 
+       src="https://github.com/user-attachments/assets/07fb3206-afd8-4547-adb1-763127798a85"
+  alt="Hands-on maintenance training">
+   
     <img
       src="https://github.com/user-attachments/assets/72ade80a-02d4-4fb7-a674-6a1cd77d0f30"
       alt="Military aviation maintenance training">
