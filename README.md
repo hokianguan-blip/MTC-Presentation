@@ -302,7 +302,7 @@
       alt="Aircraft maintenance training">
 
     <img
-      src="https://github.com/user-attachments/assets/650da772-aef0-49f1-af52-e95fc798a522"
+      src="https://github.com/user-attachments/assets/58f75429-2336-442c-a834-8055b7a4f111"
       alt="Hands-on maintenance training">
 
   </div>
