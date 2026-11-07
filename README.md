@@ -370,7 +370,7 @@
       alt="Hands-on aviation training">
 
     <img
-      src="https://github.com/user-attachments/assets/05f244cd-eae5-455f-accc-7611c60a8ebd"
+      src="https://github.com/user-attachments/assets/aacd89cd-be86-4ba9-80d7-e91cae769611"
       alt="Aircraft maintenance skills training">
 
     <img
