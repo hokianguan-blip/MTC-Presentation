@@ -301,18 +301,6 @@
       src="https://github.com/user-attachments/assets/05ef65dc-6ed4-437d-ae74-276b8d62f7d2"
       alt="Aircraft maintenance training">
 
-<img
-  src="https://github.com/user-attachments/assets/17fea93b-31d5-4fa6-bfc3-1e8d966a6211"
-  alt="MTC practical training">
-
-<img
-  src="https://github.com/user-attachments/assets/493dd08c-70d1-40ba-80e9-fcf9b4e45bf9"
-  alt="MTC technical training">
-
-<img
-  src="https://github.com/user-attachments/assets/05ef65dc-6ed4-437d-ae74-276b8d62f7d2"
-  alt="Aircraft maintenance training">
-
 <img 
   src="https://github.com/user-attachments/assets/a5529a59-97f3-4d76-8089-80564b85a990"
   alt="Hands-on maintenance training">
