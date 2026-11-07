@@ -301,10 +301,6 @@
       src="https://github.com/user-attachments/assets/05ef65dc-6ed4-437d-ae74-276b8d62f7d2"
       alt="Aircraft maintenance training">
 
-<img 
-  src="https://github.com/user-attachments/assets/a5529a59-97f3-4d76-8089-80564b85a990"
-  alt="Hands-on maintenance training">
-
 <img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/54ec94a5-d27d-4da1-ae3e-5c99de736031" />
 
 
