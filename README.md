@@ -356,9 +356,10 @@
     <img
       src="https://github.com/user-attachments/assets/bbde5e51-96b4-4fe7-8f70-d781f103199d"
       alt="Hands-on aviation training">
-
-    <img
-      src="https://github.com/user-attachments/assets/aacd89cd-be86-4ba9-80d7-e91cae769611"
+      
+    <img 
+      src="https://github.com/user
+attachments/assets/421325bc-ace7-4a81-9037-4c940ffe5e7a"
       alt="Aircraft maintenance skills training">
 
     <img
