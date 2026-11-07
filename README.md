@@ -313,12 +313,11 @@
   src="https://github.com/user-attachments/assets/05ef65dc-6ed4-437d-ae74-276b8d62f7d2"
   alt="Aircraft maintenance training">
 
-<img width="2000" height="1500" alt="image" src="https://github.com/user-attachments/assets/e0271253-6b22-49c6-99d1-088ea5c18517" />
-
-      alt="Hands-on maintenance training">
+<img 
+  src="https://github.com/user-attachments/assets/a5529a59-97f3-4d76-8089-80564b85a990"
+  alt="Hands-on maintenance training">
 
   </div>
-
 
   <!-- SECOND TEXT SECTION -->
 
