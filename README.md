@@ -265,16 +265,9 @@
     Developing Competent, Safety-Conscious Aircraft Maintenance Personnel
   </p>
   
-    The Military Aviation Maintenance Training course develops competent and
-    safety-conscious aircraft maintenance personnel through a progressive
-    combination of common foundation training and specialised Mechanical or
-    Avionics instruction. Trainees gain essential knowledge in aviation safety,
-    human factors, approved maintenance data, documentation, tool control and
-    fundamental maintenance practices before applying these principles to
-    aircraft mechanical, electrical and avionics systems.
-
-  </p>
-
+ <p class="mtc-text">
+The Military Aviation Maintenance Training course develops competent and safety-conscious aircraft maintenance personnel through a progressive combination of common foundation training and specialised Mechanical or Avionics instruction. Trainees gain essential knowledge in aviation safety, human factors, approved maintenance data, documentation, tool control and fundamental maintenance practices before applying these principles to aircraft mechanical, electrical and avionics systems.
+</p>
 
   <!-- FIRST PHOTO SECTION -->
 
