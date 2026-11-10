@@ -211,11 +211,7 @@
   </div>
 
 
-  <!-- TITLE -->
-
-  <h1 class="mtc-title">
-    Military Aviation Maintenance Training
-  </h1>
+ 
 
   <div class="mtc-divider"></div>
 
@@ -262,6 +258,12 @@
   <!-- INTRODUCTION -->
 
   <p class="mtc-text">
+
+ <!-- TITLE -->
+
+  <h1 class="mtc-title">
+    Military Aviation Maintenance Training
+  </h1>
 
     The Military Aviation Maintenance Training course develops competent and
     safety-conscious aircraft maintenance personnel through a progressive
