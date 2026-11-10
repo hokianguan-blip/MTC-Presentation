@@ -213,13 +213,7 @@
 
  
 
-  <div class="mtc-divider"></div>
-
-  <p class="mtc-subtitle">
-    Developing Competent, Safety-Conscious Aircraft Maintenance Personnel
-  </p>
-
-
+ 
   <!-- PRELUDE: WHY MTC WAS CONCEIVED -->
 
   <h2 class="mtc-section-title">
@@ -247,7 +241,7 @@
   </p>
 
   <p class="mtc-text">
-    Against this backdrop, the concept of a dedicated Military Maintenance
+    Against this backdrop, the concept of a dedicated military Maintenance
     Training Centre (MTC) was conceived: to provide military aviation-focused
     technical training that is more relevant to operational needs, reduce
     course commencement waiting times and accelerate the ab initio training
@@ -264,7 +258,13 @@
   <h1 class="mtc-title">
     Military Aviation Maintenance Training
   </h1>
+  
+ <div class="mtc-divider"></div>
 
+  <p class="mtc-subtitle">
+    Developing Competent, Safety-Conscious Aircraft Maintenance Personnel
+  </p>
+  
     The Military Aviation Maintenance Training course develops competent and
     safety-conscious aircraft maintenance personnel through a progressive
     combination of common foundation training and specialised Mechanical or
